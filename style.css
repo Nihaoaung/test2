@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url(hacker.jpg);
+    height: 100vh;
+    width: 100px;
+    background-size: cover;
+    position: relative;
+}
